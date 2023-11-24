@@ -12,3 +12,6 @@
 
 - 🖥️
 <br>
+<img src="https://github.com/DiogoSVRezende/Primeiro-Projeto/blob/main/foto-8.png?raw=true">
+<img src="https://github.com/DiogoSVRezende/Primeiro-Projeto/blob/main/foto09.png?raw=true">
+ 
